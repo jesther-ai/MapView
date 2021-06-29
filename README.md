@@ -1,4 +1,4 @@
 # MapView
 using MapKit and CoreLocation in Swift
 
-<img src="/screenshot/1.png" width="400" height="800"><img src="/screenshot/2.png" width="400" height="800">
+<img src="/screenShot/1.png" width="400" height="800"><img src="/screenShot/2.png" width="400" height="800">
